@@ -1,0 +1,9 @@
+
+{
+  "name": "NewAI",
+  "description": "A production-grade, scalable AI platform featuring deep reasoning, multimodal orchestration, and persistent conversational intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
